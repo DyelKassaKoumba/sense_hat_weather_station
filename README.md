@@ -13,7 +13,7 @@
 
 ### Install guide
 - Download all file to a location on your raspberry pi
-- Install all packages that will need to be imported
+- Install all Python dependencies
 - In temp.py Replace CITY COUNTRY by your own location 
   e.g location = geolocator.geocode("Delft Netherlands")
 - In temp.py Replace FORECAST.IO API_KEY by your API key
