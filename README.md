@@ -1,5 +1,11 @@
 # Sense Hat weather station
 
+###Current weather outside:
+![img_0938](https://cloud.githubusercontent.com/assets/6000156/12142690/6ae4e69a-b47a-11e5-9653-fe9bfbc8411f.JPG)
+
+###Rain probability for the next 7 days
+![img_0940](https://cloud.githubusercontent.com/assets/6000156/12142693/712976c4-b47a-11e5-95b9-f5f7eb97479c.JPG)
+
 ### Prerequisite
 - Rasperry pi model B+ (I haven't tested with other models)
 - Sense Hat (https://www.raspberrypi.org/products/sense-hat/)
