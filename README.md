@@ -1,9 +1,9 @@
 # Sense Hat weather station
 
-###Current weather outside:
+###Current weather outside (Cloudy day):
 ![img_0938](https://cloud.githubusercontent.com/assets/6000156/12142690/6ae4e69a-b47a-11e5-9653-fe9bfbc8411f.JPG)
 
-###Rain probability for the next 7 days
+###Rain probability for the next 7 days (One bar per day the higher the bar the higher the chance of rain):
 ![img_0940](https://cloud.githubusercontent.com/assets/6000156/12142693/712976c4-b47a-11e5-95b9-f5f7eb97479c.JPG)
 
 ### Prerequisite
@@ -24,4 +24,4 @@
 - If keyboard is connected use the arrows to access the different screens
 - If no keyboard is connected when launching the app use the sense joystick
 
-Under construction!
+
